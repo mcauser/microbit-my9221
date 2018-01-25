@@ -85,7 +85,7 @@ bytes(buf)
 
 ## Connections
 
-micro:bit | Grove 4 Digit Display
+micro:bit | Grove LED Bar
 --------- | ---------------
 Pin 1     | DI (yellow)
 Pin 2     | DCKI (white)
