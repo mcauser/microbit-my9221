@@ -15,7 +15,7 @@ For example, the [Grove - LED Bar module](http://wiki.seeed.cc/Grove-LED_Bar/)
 
 # Examples
 
-```
+```python
 from microbit import *
 from my9221 import MY9221
 ledbar = MY9221(di=pin1, dcki=pin2, reverse=False)
@@ -108,3 +108,7 @@ You're welcome to change the data and clock pins to something else - just update
 * [MY9221 datasheet](https://raw.githubusercontent.com/SeeedDocument/Grove-LED_Bar/master/res/MY9221_DS_1.0.pdf)
 * [My Semi MY9221 product page](http://www.my-semi.com/content/products/product_mean.aspx?id=9)
 * [MicroPython MY9221](https://github.com/mcauser/micropython-my9221)
+
+## License
+
+Licensed under the [MIT License](http://opensource.org/licenses/MIT).
